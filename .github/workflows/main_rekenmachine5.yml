@@ -54,4 +54,4 @@ jobs:
           app-name: 'Rekenmachine5'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E768A573DA943BC8C03F6AC38C08EE3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A54FED8596F54219BC80E76BD631787D }}
